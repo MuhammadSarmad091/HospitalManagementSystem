@@ -1,0 +1,11 @@
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore build files
+/bin/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
