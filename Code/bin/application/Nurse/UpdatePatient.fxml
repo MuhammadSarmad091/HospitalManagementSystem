@@ -15,7 +15,7 @@
             <Font name="Arial Bold" size="19.0" />
          </font>
       </Button>
-      <Label layoutX="246.0" layoutY="41.0" text="Update Patient">
+      <Label layoutX="201.0" layoutY="42.0" text="Update Patient Dues">
          <font>
             <Font name="Arial Black" size="30.0" />
          </font>
